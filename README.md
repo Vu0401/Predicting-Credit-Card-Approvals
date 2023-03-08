@@ -1,5 +1,5 @@
 # Predicting-Credit-Card-Approvals
-Commercial banks receive a lot of applications for credit cards. Many of them get rejected for many reasons, like high loan balances, low income levels, or too many inquiries on an individual's credit report, for example. Manually analyzing these applications is mundane, error-prone, and time-consuming (and time is money!). The project is building an automatic credit card approval predictor using machine learning techniques, just like the real banks do.
+Commercial banks receive a lot of applications for credit cards. Many of them get rejected for many reasons, like high loan balances, low income levels, or too many inquiries on an individual's credit report, for example. Manually analyzing these applications is mundane, error-prone, and time-consuming (and time is money!). The project is building an automatic credit card approval predictor using logistic regression model and machine learning techniques, just like the real banks do.
 # Programming languages
 Python
 
